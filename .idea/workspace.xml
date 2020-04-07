@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b641f0dd-d987-463c-954b-735bc4330d9a" name="Default Changelist" comment="" />
+    <list default="true" id="b641f0dd-d987-463c-954b-735bc4330d9a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pets.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/pets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_pets.php" beforeDir="false" afterPath="$PROJECT_DIR$/new_pets.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +16,11 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aCf9W0BPWO6BcKxXyGymJPgq6Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -20,6 +28,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -33,7 +42,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586244344637</updated>
-      <workItem from="1586244346014" duration="525000" />
+      <workItem from="1586244346014" duration="4742000" />
     </task>
     <servers />
   </component>
@@ -49,5 +58,9 @@
       <screen x="0" y="27" width="1920" height="1017" />
     </state>
     <state x="755" y="461" width="399" height="156" key="NewPhpFileDialog/0.27.1920.1017@0.27.1920.1017" timestamp="1586244371059" />
+    <state x="624" y="243" key="run.anything.popup" timestamp="1586249434670">
+      <screen x="0" y="27" width="1920" height="1017" />
+    </state>
+    <state x="624" y="243" key="run.anything.popup/0.27.1920.1017@0.27.1920.1017" timestamp="1586249434670" />
   </component>
 </project>

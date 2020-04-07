@@ -24,6 +24,18 @@ if($_SERVER['REQUEST_METHOD'] === 'POST'){
     } else {
         $bio = '';
     }
+    $pets = get_pets();
+    $newPet = array(
+            'name'=> $name,
+            'breed' => $breed,
+            'weight' => $weight,
+            'bio' => $bio
+
+    );
+    $pets[] = $newPet;
+
+    $json = json_encode($pets,JSON_PRETTY_PRINT);
+    file_put_contents('data/pets.json',$json);
 }
 ?>
 
