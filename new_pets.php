@@ -36,6 +36,9 @@ if($_SERVER['REQUEST_METHOD'] === 'POST'){
 
     $json = json_encode($pets,JSON_PRETTY_PRINT);
     file_put_contents('data/pets.json',$json);
+
+    header('Location: /');
+    die();
 }
 ?>
 
